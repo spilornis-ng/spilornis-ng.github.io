@@ -4,9 +4,9 @@ type: landing
 
 sections:
   - block: collection
-    id: Research Themes
+    id: Research
     content:
-      title: Recent Posts
+      title: Projects
       subtitle: ''
       text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
@@ -15,7 +15,7 @@ sections:
       filters:
         # The folders to display content from
         folders:
-          - post
+          - research
         author: ""
         category: ""
         tag: ""
