@@ -39,6 +39,12 @@ profiles:
     url: https://github.com/spilornis-ng
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=HT4VrLcAAAAJ
+  - icon: academicons/research-gate
+    url: https://www.researchgate.net/profile/Naman-Goyal
+  - icon: academicons/inaturalist
+    url: https://www.inaturalist.org/people/spilornis_n
+  - icon: custom/ebird
+    url: https://ebird.org/profile/NTQ0Mjc3/world
 
 interests:
   - Evolutionary Biology
