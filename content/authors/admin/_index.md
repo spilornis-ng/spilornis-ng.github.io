@@ -30,16 +30,13 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:naman.goyal1992@gmail.com'
-    label: E-mail me
   - icon: brands/x
     url: https://twitter.com/SpilornisN
   - icon: brands/github
     url: https://github.com/spilornis-ng
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=HT4VrLcAAAAJ
-  - icon: academicons/research-gate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Naman-Goyal
   - icon: academicons/inaturalist
     url: https://www.inaturalist.org/people/spilornis_n
@@ -64,4 +61,4 @@ education:
 
 ## About Me
 
-I am an evolutionary biologist interested in understanding how myriad of lifeforms have evolved on earth.
+As an evolutionary biologist, my passion lies in unraveling the incredible tapestry of life on Earth. My research brings together the power of population genomics, phylogenomics, ecology, and natural history, fostering a multi-faceted collaborative approach to explore how diverse lifeforms have evolved and adapted over time.
