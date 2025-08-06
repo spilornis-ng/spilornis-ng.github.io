@@ -1,6 +1,6 @@
 ---
 title: Biogeography and evolution of peninsular Indian birds
-summary: This project aims to understand how topography and climate drive patterns in diversity, both taxnomic and genomic, in peninsular Indian birds
+summary: This project aims to understand how topography and climate drive patterns in diversity and genomic variation in peninsular Indian birds.
 date: 2025-08-06
 
 # Featured image
