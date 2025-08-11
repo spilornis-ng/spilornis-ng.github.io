@@ -12,41 +12,18 @@ sections:
 
         ---
 
-        ## 🐦 Biogeography and Evolution of Peninsular Indian Birds
+        ## Biogeography and Evolution of Peninsular Indian Birds
 
         ![Biogeography of birds](/research/biogeography.jpg)
 
-        This project aims to understand how topography and climate influence taxonomic and genomic diversity in peninsular Indian birds.
+        This project aims to understand how topography and climate influence diversity and genomic variation in peninsular Indian birds. Combining distributional range maps of resident breeding forest birds, and ![latest](https://doi.org/10.1073/pnas.2409658122) phylogenetic tree for birds of the world, the study quantifies the patterns in species richness, phylogenetic diversity, and endemism and uses spatial autoregressive models to understand the relative importance of historic and contemporary climate, and topography.
 
-        - **Focus:** Diversity patterns, gene flow, and niche differentiation  
-        - **Tools:** Whole genome sequencing, landscape genomics, phylogenetics  
-        - **Duration:** 2023–present
-
-        ---
-
-        ## 🌲 Forest Fragmentation and Avian Community Structure
-
-        ![Forest fragmentation](/research/fragmentation.jpg)
-
-        We study how forest fragmentation impacts species interactions, community composition, and ecological resilience.
-
-        - **Study area:** Western Ghats, India  
-        - **Data sources:** Point counts, remote sensing, and acoustic monitoring  
-        - **Collaborators:** [Name Lab/PI], [Institution]
+        - **Focus:** Diversity patterns, genomic variation, demographic history  
+        - **Approach:** Population genomics, Phylogenomics  
+        - **Duration:** 2019–present
+        - **Publications:** Goyal, N., Sharma, A., Jagati, V., Herur, A., Arunima, J., Gopal, A., Joshi, J., and Robin, V.V. 2025. Spatial patterns of diversity in forest birds of peninsular India. ![Link] (https://www.biorxiv.org/content/10.1101/2025.04.28.650994v1)
 
         ---
 
-        ## 🌍 Climate Change and Bird Distribution Shifts
-
-        ![Birds and climate](/research/climate.jpg)
-
-        This project explores past and future distribution shifts of forest birds under changing climate regimes.
-
-        - **Methods:** Ecological niche modeling, paleoclimate projections  
-        - **Outputs:** Species distribution maps, predictive scenarios  
-        - **Publications:** [Link to papers or preprints]
-
-        ---
-
-        If you'd like to collaborate or learn more, [get in touch here](/contact/).
+        ## More to be added soon!
 ---
