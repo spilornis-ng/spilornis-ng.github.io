@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Indian Institute of Science Education and Research Tirupati, India
-    url: https://www.skyisland.in/
+  - name: University of Copenhagen
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -61,4 +61,4 @@ education:
 
 ## About Me
 
-As an evolutionary biologist, my passion lies in unraveling the incredible tapestry of life on Earth. My research brings together the power of population genomics, phylogenomics, ecology, and natural history, fostering a multi-faceted collaborative approach to explore how diverse lifeforms have evolved and adapted over time.
+I am a biologist with a broad interest in ecology and evolutionary biology
